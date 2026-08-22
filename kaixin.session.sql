@@ -1,1 +1,0 @@
-SELECT * FROM actor LIMIT 20
